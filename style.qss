@@ -1,0 +1,11 @@
+QWidget {
+    background: #313338;
+}
+QPushButton {
+    background: #5865F2;
+}
+
+QFrame#mainContainer {
+    background: #313338;
+    border-radius: 18px;
+}
