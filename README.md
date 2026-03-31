@@ -1,0 +1,2 @@
+# ChromeCord
+DISCORD RPC
